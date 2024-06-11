@@ -1,4 +1,6 @@
 #EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1058/b2/e81cad4e92aecc726c023d7fc5c717_180_135.jpg?1670570541" group-title="英雄联盟", 滔博JackeyLove
 http://live.aptvapp.com/live/huya/111800
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1063/27/69fb3230202bffd72a9052f340f1a9_180_135.jpg?1504934179" group-title="王者荣耀", 孤影
