@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1058/b2/e81cad4e92aecc726c023d7fc5c717_180_135.jpg?1670570541" group-title="英雄联盟", 滔博JackeyLove
+http://live.aptvapp.com/live/huya/111800
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1063/27/69fb3230202bffd72a9052f340f1a9_180_135.jpg?1504934179" group-title="王者荣耀", 孤影
+http://live.aptvapp.com/live/huya/321
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/6f/3626ef611e990cbbcefab8e1bbc561_180_135.jpg?1673464127" group-title="英雄联盟", 虎牙英雄联盟赛事
+http://live.aptvapp.com/live/huya/660000?quality=30000
